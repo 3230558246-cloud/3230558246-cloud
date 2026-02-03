@@ -1,6 +1,6 @@
  # 👋 你好，我是 [陈锐]                                                 
                                                                                 
-     深度学习爱好者 | 飞桨开发者 | Python/C++ 初学者                        
+     **深度学习爱好者 | 飞桨开发者 | Python/C++ 初学者**                        
                                                                                 
      🚀 正在参与 [飞桨启航计划训练营](https://github.com/PaddlePaddle/Paddl     
      e/issues/77510)                                                            
