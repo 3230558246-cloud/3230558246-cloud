@@ -4,7 +4,7 @@
 
 **深度学习爱好者 | 飞桨开发者 | Python/C++ 初学者**
 
-🚀 正在参与 [飞桨启航计划训练营](https://github.com/PaddlePaddle/Paddle/issues/77510)
+🚀 正在参与报名 [飞桨启航计划训练营](https://github.com/PaddlePaddle/Paddle/issues/77510)
 
 [![GitHub followers](https://img.shields.io/github/followers/3230558246-cloud?style=social)](https://github.com/3230558246-cloud)
 [![GitHub stars](https://img.shields.io/github/stars/3230558246-cloud?style=social)](https://github.com/3230558246-cloud)
